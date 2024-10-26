@@ -1,0 +1,19 @@
+Data Pre-processing
+ ●   We took the demand and potential data sets and identified important features.
+
+ ●   The features that were taken into consideration were travel time and location (X and Y
+     coordinates of a point) and density of a potential location.
+
+
+
+
+What each python script does
+ ●   location_potential_norm = normalised location points for potential data sets.
+ ●   Editing_Potential_Data_Set = extracted important features from potential data
+     set.
+ ●   demand_data_8_12.ipynb = worked on demand data in the time frame of 8_12.
+ ●   demand_data_12_16.ipynb = worked on demand data in the time frame of
+     12_16.
+ ●   Normalising_demand.ipynb = Normalising the data in demand data set.
+ ●   normalized_time_travel.ipynb = Normalising the data in the time travel set.
+
