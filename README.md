@@ -22,7 +22,7 @@ Densely populated areas like Mumbai face an increased risk of fire accidents. Tr
 
 **Repository Contents:**
 
-* `Processing.zip`: Compressed file containing data processing scripts.
+* `Data Pre Processing.zip`: Compressed file containing data processing scripts.
 * `Info_data_pre_processing.txt`: Text file explaining data preprocessing steps.
 * `README.md`: This file (you are reading it now!).
 * `data.zip`: Compressed file containing the project datasets.
